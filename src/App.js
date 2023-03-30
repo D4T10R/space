@@ -1,6 +1,13 @@
+// componentes
 import PaginaInicial from "./paginas/PaginaInicial";
-import Menu from "./componentes/Menu";
+
+// estilos
 import './styles/estilosGlobais.css'
+import './styles/variaveis.css'
+
+// fontes
+import './assets/fontes/GandhiSans-Regular.otf' 
+import './assets/fontes/GandhiSans-Bold.otf' 
 
 function App() {
   return (

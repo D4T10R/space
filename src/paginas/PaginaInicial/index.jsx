@@ -1,7 +1,6 @@
 import Cabecalho from "../../componentes/Cabecalho"
 import Principal from "../../componentes/Principal"
 
-//imagens 
 
 //estilo
 import './paginaInicial.css'
