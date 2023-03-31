@@ -1,0 +1,20 @@
+.galeria {
+  font-family: var(--fonte-normal);
+  margin-bottom: 2rem;
+
+}
+
+.galeria h2 {
+    color: var(--roxo);
+    font-size: 24px;
+}
+
+.galeria__cards {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+
